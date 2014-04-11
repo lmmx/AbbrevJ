@@ -1,4 +1,4 @@
 AbbrevJ
 =======
 
-At [http://biochemistri.es/AbbrevJ](biochemistri.es/AbbrevJ)
+At [biochemistri.es/AbbrevJ](http://biochemistri.es/AbbrevJ)
