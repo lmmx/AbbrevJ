@@ -1,0 +1,91 @@
++::-webkit-scrollbar
++::-webkit-scrollbar-track
++::-webkit-scrollbar-thumb
++::-webkit-scrollbar-corner
++div.post p img, div.post p iframe
++blockquote p
++blockquote
++code, pre
++hr
++hf
++li
++a.menu_b:hover
++a img.menu_b, a svg.menu_b
++a img.menu_c
++a:hover img.menu_b, a:focus img.menu_b, a:hover svg.menu_b, a:focus svg.menu_b
++a:hover img.menu_c, a:focus img.menu_c
++ul.justtags
++ol.notes
++div#notes
++div#notes:hover
++ol.notes > li
++ol.notes > li:hover
++a.notecount span
++ol.notes > li:before
++li ol, li ul
++ol ol li:last-child
++ol.notes li span.action
++ol.notes li span.action:hover
++ol.notes li span.action a:hover
++ul.menu_b, ul.menu_c, ul.pagenumbering
++l.menu_b, l.menu_c
++ul.menu_b, ul.menu_c
++a:hover.menu_b, a:hover.menu_c, a:focus.menu_b, a:hover.menu_c
++ul.menu_b a img, ul.menu_b a svg
++ul.menu_c a img
++a:hover.menu_b img, a:focus.menu_b img, a:hover.menu_b svg, a:focus.menu_b svg
++a:hover.menu_c img, a:focus.menu_c img
++a#explanation.hover
++blockquote
++blockquote
++#page 
++em.highlight, #page 
++span.highlight
++#page 
++span.den
++#page 
++span.num
++#header 
++a#top
++#button
++#button:hover
++#header ul#enabled li a[href*="/tggd_"]:before, #content .post > .info a.tag:before
++#content .post > .info a.tag:hover:before
++a.tag
++#header ul#enabled li, #content ol#permalinkpagination li
++#content ol#permalinkpagination, #content .post > .info ul.tags, #content .post_audio p.metadata span.trackname
++#content ol#permalinkpagination
++#content .post_answer p.asker span:after
++#content .post_answer p.question
++#content .post_audio p.metadata span.album:before, #content .post_quote div.source:before
++#content .post_audio p.metadata span.trackname, #content .post_chat .label
++#content .post_audio p.audioplayer .audio_player
++#content .post_audio p.audioplayer span.download
++#content .post_chat span.label
++#content .post_link h1 a span:after, #content .post_link h2 a span:after
++#content .post_photo p.container
++#content .post_photo p.container a
++#content .post_quote h1, #content .post_quote h2
++#content .post_text a.readmore span:after
++#content .post > .info ul.tags li
++#content .post > .info ul.tags li a
++#content #notes
++#content #notes ol.notes
++#content #notes ol.notes li.more_notes_link_container
++#footer #anylastwords
++#footer ul
++#footer ul li
++#page.indexpage #content .post_photo .html_photoset
++#page.permalinkpage #content .post_photo p.container a.linkurl
++#page.permalinkpage #content .post_photo p.container a.linkurl:before
++#page.permalinkpage #content .post_photo p.container a.linkurl code
++#page.permalinkpage #content .post_photo p.container a.linkurl:hover code
++#page.permalinkpage #content .post_quote h1
++#page.permalinkpage #content .post_quote h1.long a
++#page.permalinkpage #content .post_quote h1.medium a
++#content .post img, #page.indexpage #content .post img
++hr
++#content .post_answer p.question, #page.searchpage #header #search.zero form input[type="text"]
++#content .post.reblog .info a.permalink:before
++#page.permalinkpage #content ol#permalinkpagination
++.fontsforweb_fontid_1409
